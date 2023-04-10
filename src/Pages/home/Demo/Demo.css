@@ -1,0 +1,23 @@
+.demo{
+    width: 100%;
+    
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.demo:hover{
+    transform: translateY(-10px);
+}
+
+
+
+.demo-btn{
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: black;
+    background-image: linear-gradient(#93704a, #a57a4d);
+}
+.demo-btn:hover{
+    background-image: linear-gradient(rgb(235, 219, 167), rgb(226, 199, 76));
+    border-color: black;
+}

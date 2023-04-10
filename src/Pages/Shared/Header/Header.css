@@ -1,0 +1,16 @@
+.signout-btn{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(#93704a, #a57a4d);
+    
+}
+
+.signout-btn:hover{
+    background-image: linear-gradient(black, rgb(85, 78, 78));
+    
+    border-color: black;
+}
+
+.pages:hover{
+    transform: scale(1.2);
+}

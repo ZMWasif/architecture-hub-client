@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Architecture Studio",
+        "img" : "https://i.ibb.co/XVsxwXJ/pic1.jpg"
+        },
+        
+        {
+            "id": 2,
+        "name": "Arc Studio",
+        "img" : "https://i.ibb.co/T18yM87/pic2.jpg"
+        },
+        
+        {
+            "id": 3,
+            "name": "Archub Studio",
+            "img" : "https://i.ibb.co/Qvzntf2/pic3.jpg"
+        },
+        
+        { "id": 4,
+            "name": "Classic One",
+            "img" : "https://i.ibb.co/LgsXRyb/pic4.jpg"
+        },
+        
+        { "id": 5,
+            "name": "Minimalist",
+            "img" : "https://i.ibb.co/wBFPJjN/pic5.jpg"
+        },
+        
+        { "id": 6,
+            "name": "Residence",
+            "img" : "https://i.ibb.co/q1YX0L4/pic6.jpg"
+        },
+        { "id": 7,
+            "name": "Interior",
+            "img" : "https://i.ibb.co/jMhX1Pk/pic7.jpg"
+        },
+        { "id": 8,
+            "name": "Interior 2",
+            "img" : "https://i.ibb.co/G7N7fvH/pic9.jpg"
+        },
+        { "id": 9,
+            "name": "Dark",
+            "img" : "https://i.ibb.co/Bfz2Pp4/pic8.jpg"
+        },
+        { "id": 10,
+            "name": "Renovation",
+            "img" : "https://i.ibb.co/LhSNf0s/pic10.jpg"
+        },
+        { "id": 11,
+            "name": "Adaptive Colours",
+            "img" : "https://i.ibb.co/4pDFnKM/pic11.jpg"
+        },
+        { "id": 12,
+            "name": "Modern Blocks",
+            "img" : "https://i.ibb.co/CVDpXHK/pic12.jpg"
+        },
+        { "id": 13,
+            "name": "Asymmetric",
+            "img" : "https://i.ibb.co/h8YHbvV/pic13.jpg"
+        },
+        { "id": 14,
+            "name": "Portfolio",
+            "img" : "https://i.ibb.co/5LWKp5j/pic14.jpg"
+        },
+        { "id": 15,
+            "name": "Asymmetric 2",
+            "img" : "https://i.ibb.co/C8j614n/pic15.jpg"
+        }
+        
+      
+]
